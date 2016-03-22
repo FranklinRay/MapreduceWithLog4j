@@ -1,3 +1,3 @@
 # MapreduceWithLog4j
-This is  a Mapreduce Program to process the temperture
-Temperture in the file input
+This is  a Mapreduce Program to process the temperature
+Temperature in the file input
